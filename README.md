@@ -19,4 +19,5 @@ Oil Temperature Prediction
    python scripts/preprocess.py
    
 3. モデルの学習
-   python scripts/train.py
+   python scripts/model.ipynb
+
