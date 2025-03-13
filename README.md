@@ -15,9 +15,12 @@ Oil Temperature Prediction
    cd oil-temp-prediction
    pip install -r requirements.txt
 
-2. データの前処理
+2. Jupyter をインストール
+   pip install jupyter
+
+3. データの前処理
    python scripts/preprocess.py
    
-3. モデルの学習
+4. モデルの学習
    python scripts/model.ipynb
 
