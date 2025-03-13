@@ -14,7 +14,7 @@ Oil Temperature Prediction
    git clone https://github.com/whatagu917/oil-temp-prediction.git
    cd oil-temp-prediction
    pip install -r requirements.txt
-
+　#ここで仮想環境を構築することが望ましい#
 **Jupyter をインストール**
    pip install jupyter
 
